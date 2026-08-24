@@ -3,4 +3,4 @@ ouuuuu shiiii
 test
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lavend3rbuds)](https://github.com/stats-organization/github-stats-extended)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={lavend3rbuds}&theme={tokyonight}
