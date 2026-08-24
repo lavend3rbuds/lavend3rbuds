@@ -1,5 +1,3 @@
-I'm willow. I like making stuff.<br>
-
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lavend3rbuds)](https://github.com/stats-organization/github-stats-extended)
 
 
