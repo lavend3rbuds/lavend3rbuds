@@ -1,5 +1,15 @@
 I'm willow. I like making stuff.<br>
-![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F550000%2Fvelka%2Ftransgender-pride-flag.png&f=1&nofb=1&ipt=13063cf1fc332cc89b5fb8c498ce98b947c274ccbf7bc6936576ec7cb59a157e)
-
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lavend3rbuds)](https://github.com/stats-organization/github-stats-extended)
+
+
+
+
+
+
+
+
+
+
+
+![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwiki.worldchan.net%2Fimages%2Fthumb%2F9%2F95%2FSteamhappy.webp%2F1181px-Steamhappy.webp.png&f=1&nofb=1&ipt=7ea6f766cde102a70bbb893da53216a035a9520e107be3008320834243c67c59)
