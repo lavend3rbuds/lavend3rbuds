@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lavend3rbuds)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
