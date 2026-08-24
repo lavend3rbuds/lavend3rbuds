@@ -1,5 +1,1 @@
-ouuuuu shiiii
-
-test
-
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lavend3rbuds&theme=tokyonight
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lavend3rbuds)](https://git.io/streak-stats)
